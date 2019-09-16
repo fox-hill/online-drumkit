@@ -33,8 +33,8 @@ p {
 }
 
 .footer{
-  color: white;
-  background-color: #135485;
+  color: #135485;
+  background-color: white;
   text-align: center;
   display: inline-block;
   font-size: 14px;
